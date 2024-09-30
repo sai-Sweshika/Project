@@ -1,0 +1,176 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: lightseagreen;
+    padding: 10px;
+}
+.header-left{
+    display: flex;
+    gap: 30px;
+}   
+
+.header-left>a{
+    text-decoration: none;
+    color: white;
+}
+.banner{
+    background-image: url(./images/banner-02.jpg); width: 100%; height:500px;
+    text-align: center;
+    padding-top: 200px;
+}
+.banner p{
+   margin-top: 10px;
+   color: white;
+
+}
+.banner h1{
+    color: white;
+}
+.banner span{
+    color:cadetblue;
+    border: solid cadetblue;
+    border-radius: 20px;
+    padding: 10px;
+}
+.banner1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    padding: 20px;
+    border-radius: 80px;
+    text-align: center;
+}
+.banner1 i{
+    border: solid lightseagreen;
+    padding: 10px;
+    border-radius: 80px;
+}
+.one,.two,.three{
+    color: lightseagreen;
+}
+.four{
+    background-color: lightseagreen;
+    color: white;
+    border-radius: 20px;
+    padding:10px;
+}
+.main{
+    float: right;
+   padding-right: 20px;
+}
+.mainpart-right{
+    width: 600px;
+    height: 100%;
+   margin-left: 2%;
+}
+.mainpart-right span{
+    color: lightseagreen;
+}
+.mainpart1{
+    width: 500px;
+}
+.part1-2 span{
+    background-color: lightseagreen;
+    color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.mainpart-2{
+    display: flex;
+   
+}
+.mainpart-left{
+    justify-content: center;
+
+}
+.mainpart-2 > img{
+    border-radius: 20px;
+    height: 250px;
+}
+
+.right-part1{
+    
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+}
+.right p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right-part2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: solid gray;
+    border-radius: 20px;
+    padding: 5px;
+
+}
+.part2-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.part2-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.part2-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.right-part3{
+    justify-content: center;
+    padding-left: 200px;
+    color: lightseagreen;
+}
+.right-part4{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    border: lightseagreen;
+    border-radius: 50px;
+}
+
+
+footer{
+    background-image: url(./images/banner-01.jpg); width: 100%; height:100%;
+    color: white;
+   
+}
+.footer-part{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: lightseagreen;
+    opacity: 50%;
+    
+   
+    
+}
+.footer-2{
+    border: solid white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.footer-part2{
+    background-color: lightseagreen;
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
